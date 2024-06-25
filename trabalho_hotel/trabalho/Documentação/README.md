@@ -1,8 +1,10 @@
 ﻿# Sistema de Gestão de Hotel - Hotel Descanso Garantido
 
 Nome: Matheus Santos Gomes
-
 Matrícula: 629910
+
+Nome: Victor Sverberi Maia
+Matrícula: 832328
 
 ## Descrição
 
